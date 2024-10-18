@@ -1,4 +1,5 @@
 Search a fashion product of your choice by a text query and the model will recommend image of top relevant products.
+The transformer used is CLIP(contrastive language image pretraining) https://huggingface.co/docs/transformers/en/model_doc/clip
 
 Demo Vid: 
 
